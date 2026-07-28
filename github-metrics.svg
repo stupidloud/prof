@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10075 Commits
+                            10078 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -205,7 +205,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    2684 Forkers
+                                    2683 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.7891432965694" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="181.7891432965694" y="0" width="103.14985868774616" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="284.93900198431555" y="0" width="68.74563317393127" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="353.68463515824686" y="0" width="45.50746843142293" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="399.1921035896698" y="0" width="27.7150872306695" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="426.9071908203393" y="0" width="15.412954338641553" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.3201451589809" y="0" width="12.506317670318866" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.8264628292997" y="0" width="5.17353717070034" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.7924117892014" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="181.7924117892014" y="0" width="103.1486468567015" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="284.9410586459029" y="0" width="68.74482553256826" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="353.68588417847116" y="0" width="45.50693379799046" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="399.1928179764616" y="0" width="27.714761626703208" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="426.90757960316483" y="0" width="15.412773263293559" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.3203528664584" y="0" width="12.506170742885326" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.8265236093437" y="0" width="5.1734763906562975" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
