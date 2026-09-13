@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10128 Commits
+                            10142 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.3955724309492" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="181.3955724309492" y="0" width="101.96623318341635" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="283.3618056143655" y="0" width="68.76255373077808" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="352.1243593451436" y="0" width="45.15952200351118" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="397.28388134865475" y="0" width="27.193732567670935" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="424.4776139163257" y="0" width="15.707721458916028" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.1853353752417" y="0" width="12.271058550255669" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.45639392549737" y="0" width="7.543606074502571" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.48052381292473" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="181.48052381292473" y="0" width="101.92695953526675" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="283.4074833481915" y="0" width="68.73606892049551" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="352.143552268687" y="0" width="45.16448502552277" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="397.3080372942098" y="0" width="27.183258540619097" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="424.49129583482886" y="0" width="15.701671421501192" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="440.19296725633" y="0" width="12.26633218917632" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.4592994455063" y="0" width="7.540700554493643" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
